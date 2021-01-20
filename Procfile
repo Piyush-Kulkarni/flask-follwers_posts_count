@@ -1,2 +1,2 @@
   
-web: gunicorn pageapp1:pageapp1
+web: gunicorn app:app
